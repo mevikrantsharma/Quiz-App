@@ -1,0 +1,52 @@
+[
+    {
+        "question":"In what year did the Great October Socialist Revolution take place?",
+        "options":["1917", "1923", "1914", "1920"],
+        "answer":"1917"
+    },
+    {
+        "question":"What is the largest lake in the world?",
+        "options":["Caspian Sea", "Baikal", "Lake Superior", "Ontario"],
+        "answer":"Baikal"
+    },
+    {
+        "question":"Which planet in the solar system is known as the “Red Planet”?",
+        "options":["Venus", "Earth", "Mars", "Jupiter"],
+        "answer":"Mars"
+    },
+    {
+        "question":"Who wrote the novel “War and Peace”?",
+        "options":["Anton Chekhov", "Fyodor Dostoevsky", "Leo Tolstoy", "Ivan Turgenev"],
+        "answer":"Leo Tolstoy"
+    },
+    {
+        "question":"What is the capital of Japan?",
+        "options":["Beijing", "Tokyo", "Seoul", "Bangkok"],
+        "answer":"Tokyo"
+    },
+    {
+        "question":"Which river is the longest in the world?",
+        "options":["Amazon", "Mississippi", "Nile", "Yangtze"],
+        "answer":"Nile"
+    },
+    {
+        "question":"What animal is the national symbol of Australia?",
+        "options":["Kangaroo", "Crocodile", "Koala", "Emu"],
+        "answer":"Kangaroo"
+    },
+    {
+        "question":"Which of the following planets is not a gas giant?",
+        "options":["Mars", "Jupiter", "Saturn", "Uranus"],
+        "answer":"Mars"
+    },
+    {
+        "question":"For which of these disciplines Nobel Prize is awarded?",
+        "options":["Physics, Chemistry", "Physiology", "Medicine", "All of the above"],
+        "answer":"All of the above"
+    },
+    {
+        "question":"Hitler's party is known as:",
+        "options":["Labour Party", "Nazi Party", "Ku-Klux-Klan", "Democratic Party"],
+        "answer":"Nazi Party"
+    }
+]
